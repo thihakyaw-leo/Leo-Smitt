@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm leosmitt 👋</h1>
+  <h1>Hi there, I'm Leo Smitt 👋</h1>
   <h3>Crafting Next-Gen UIs & Robust Systems</h3>
 </div>
 
@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leosmitt&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=777777" alt="leosmitt's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thihakyaw-leo&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=777777" alt="leosmitt's GitHub stats" />
 </div>
 
 <br>
