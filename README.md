@@ -25,7 +25,7 @@
       </td>
       <td align="center" width="50%">
         <b>Backend & Database</b><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postman" alt="Backend Tools" />
+        <img src="https://skillicons.dev/icons?i=cloudflare,nodejs,express,mysql,postman" alt="Backend Tools" />
       </td>
     </tr>
   </table>
@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thihakyaw-leo&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=777777" alt="leosmitt's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thihakyaw-leo&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=777777" alt="thihakyaw-leo's GitHub stats" />
 </div>
 
 <br>
